@@ -1,0 +1,22 @@
+{
+  "name": "vue-fly",
+  "version": "0.0.1",
+  "description": "A solution based on vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merainy/vue-fly.git"
+  },
+  "keywords": [
+    "vuejs"
+  ],
+  "author": "Merainy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Merainy/vue-fly/issues"
+  },
+  "homepage": "https://github.com/Merainy/vue-fly#readme"
+}
